@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Payments AEON</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="incorrect_data">Incorrect data</string>
+    <string name="network_error">Network error</string>
+    <string name="incorrect_username_or_password">Incorrect username or password</string>
+    <string name="lorem">Сделать приложение с возможностью авторизации пользователя и вывода списка его платежей после успешной авторизации. Сделанный проект надо выгрузить в репозиторий на Github. Оценивается как выполнение указанных требований, так и качество проработки отдельных деталей.</string>
+
+</resources>
